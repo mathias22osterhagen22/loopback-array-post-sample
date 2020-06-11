@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "People": 2
+  },
+  "models": {
+    "People": {
+      "1": "{\"name\":\"first one\",\"id\":1}"
+    }
+  }
+}
